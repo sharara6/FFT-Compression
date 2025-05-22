@@ -58,10 +58,3 @@ Modify `src/main.py` to:
 - Adjust the compression level (parameter `keep_percentage`)
 - Enable/disable visualization
 
-## Team
-
-This project is structured for collaborative development with clear separation of concerns:
-
-- **Image Handling**: Image I/O, visualization, format support
-- **Compression Engine**: FFT algorithms, filtering methods, optimization
-- **Quality Metrics**: Evaluation metrics, comparative analysis, benchmarking
